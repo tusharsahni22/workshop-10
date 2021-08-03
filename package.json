@@ -1,0 +1,20 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+     "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
